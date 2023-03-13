@@ -1,0 +1,15 @@
+* Please choose a pizza base :
+1: Classic (Tomato Sauce, Mozzarella, Sausage, Pepperoni)
+2: Margherita (Tomato Sauce, Fresh Mozzarella, Basil Leaves)
+3: Turkish (Tomato Sauce, Ground Beef, Spices, Parsley)
+4: Dominos (Dominos Sauce, Salami, Barbeque Sauce)
+
+* and your choice of sauce:
+11: Olive ($1.00)
+12: Mushroom($2.00)
+13: Cheese (Goat Cheese)($3.50)
+14: Beef($6.50)
+15: Onion($2.50)
+16: Corn($1.20)
+NOTE: If you have no preference type 0 to skip
+* Thank you!
